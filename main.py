@@ -2,5 +2,6 @@
 a = 3
 print(a)
 
-# this is my change to main.py for feature2
-feature2 = 202
+# this is my change to main.py for feature2 after resolution with feature1
+feature2 = 303
+
