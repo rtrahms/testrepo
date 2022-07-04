@@ -1,6 +1,0 @@
-This is file #2.  Change made from github.
-Fee-Fi-Fo-Fum!
-
-Here is an update that was made locally.
-Blah Blah Blah.
-
